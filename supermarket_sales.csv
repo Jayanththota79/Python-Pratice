@@ -1,0 +1,8 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+750-67-8428,A,Yangon,Member,Female,Health and beauty,74.69,7,26.1415,548.9715,1/5/2019,13:08,Ewallet,522.83,4.761905,26.1415,9.1
+226-31-3081,C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,3/8/2019,10:29,Cash,76.4,4.761905,3.82,9.6
+631-41-3108,A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.2155,340.5255,3/3/2019,13:23,Credit card,324.31,4.761905,16.2155,7.4
+123-19-1176,A,Yangon,Member,Female,Health and beauty,58.22,8,23.288,489.048,1/27/2019,20:33,Ewallet,465.76,4.761905,23.288,8.4
+373-73-7910,A,Yangon,Normal,Female,Food and beverages,86.31,7,30.2085,634.3785,2/8/2019,10:37,Cash,604.17,4.761905,30.2085,5.3
+699-14-3026,B,Mandalay,Normal,Female,Health and beauty,85.39,7,29.8865,627.6165,3/25/2019,18:30,Ewallet,597.73,4.761905,29.8865,4.1
+355-53-5943,C,Naypyitaw,Normal,Female,Fashion accessories,68.84,6,20.652,433.692,2/25/2019,14:36,Ewallet,413.04,4.761905,20.652,5.8
