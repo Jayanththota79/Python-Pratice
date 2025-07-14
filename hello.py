@@ -6,7 +6,7 @@ print(a)
 b = int(input("enter another number : "))
 print(a+b)
 
-
+c == (a+b)
 
 print(c)
 
@@ -17,3 +17,4 @@ print(c)
 
 
 #sunday
+
