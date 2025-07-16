@@ -25,3 +25,12 @@ print(c)
 
 
 # jendbdiabsvbs
+
+
+
+#jsjsbsjsnslaowbdhd
+
+zkdodn
+djeidbd
+jdidbdie
+sidbd
