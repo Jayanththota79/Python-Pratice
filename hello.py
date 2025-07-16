@@ -14,23 +14,3 @@ print(c)
 
 
 # three days after this no improvement nice ra nani
-
-
-#sunday
-
-
-
-# em le 
-
-
-
-# jendbdiabsvbs
-
-
-
-#jsjsbsjsnslaowbdhd
-
-zkdodn
-djeidbd
-jdidbdie
-sidbd
