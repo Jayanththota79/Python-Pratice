@@ -14,3 +14,9 @@ print(c)
 
 
 # three days after this no improvement nice ra nani
+
+# 10 Days 
+
+# kfkjafkjabfkahafafoiwhffoif
+print(a+b)
+print(c)
