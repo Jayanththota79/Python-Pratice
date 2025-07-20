@@ -11,3 +11,5 @@ print(l)
 total = sum(l)
 print(total)
 # difference between first n natural numbers and natural numbers is not including the n
+
+# just seeing
