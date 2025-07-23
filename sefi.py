@@ -13,3 +13,6 @@ for i in range(a,b):
 # created list name called l and stoing all the numbers in list to print in one line 
 
 print(l)
+
+
+# python code for the divisible numbers by 5 and 7
