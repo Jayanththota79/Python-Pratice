@@ -7,5 +7,3 @@ if a<0:
 else:
     print("Positive")
 
-#ksbdksbsmsbd
-
