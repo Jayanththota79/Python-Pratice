@@ -10,4 +10,4 @@ for i in range(a,b+1):
 numbers = sum(l)
 print(numbers)
 
-
+# adding the numbers if you entered 100 it will print from 1 to 100
