@@ -7,3 +7,4 @@ if (num%2==0):
 
 else:
     print("Odd Number")
+# print odd or even number
