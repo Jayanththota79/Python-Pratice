@@ -11,3 +11,5 @@ numbers = sum(l)
 print(numbers)
 
 # adding the numbers if you entered 100 it will print from 1 to 100
+
+# code for range
