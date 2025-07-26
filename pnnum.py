@@ -7,3 +7,4 @@ if a<0:
 else:
     print("Positive")
 
+# printing the number that is positivie or negative
