@@ -6,5 +6,3 @@ if a<0:
     print("Negative")
 else:
     print("Positive")
-
-# printing the number that is positivie or negative
