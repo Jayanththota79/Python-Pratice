@@ -15,4 +15,3 @@ for i in range(a,b):
 print(l)
 
 
-# python code for the divisible numbers by 5 and 7
