@@ -8,3 +8,4 @@ if (num%2==0):
 else:
     print("Odd Number")
 # print odd or even number
+# logic id divide by 2 if reminder is one it odd else it will be even
