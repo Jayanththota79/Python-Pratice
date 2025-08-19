@@ -10,4 +10,4 @@ for i in range(0,a+1):
 print(l)
 total = sum(l)
 print(total)
-# difference between first n natural numbers and natural numbers is not including the n
+# difference between first n natural numbers and natural numbers is not including the n 
