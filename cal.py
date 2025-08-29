@@ -25,4 +25,4 @@ elif operation == "/":
     result = a/b
     print(result)
 
-# caluclator having only addition subraction divison.
+# caluclator having only addition subraction divison
