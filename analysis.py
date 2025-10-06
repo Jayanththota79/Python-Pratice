@@ -31,4 +31,4 @@ plt.show()
 
 
 # analyze the data and give the output according to the customers  
-# Data Can perdict the sales and ok all  thing
+# Data Can perdict the sales and ok all 
