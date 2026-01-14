@@ -24,4 +24,5 @@ elif operation == "%":  # % operator will print the reminder
 elif operation == "/": 
     result = a/b
     print(result)
+
 # caluclator having only addition subraction divison
