@@ -21,6 +21,7 @@ elif operation == "-":
 elif operation == "%":  # % operator will print the reminder
     result = a%b
     print(result)
+
 elif operation == "/": 
     result = a/b
     print(result)
