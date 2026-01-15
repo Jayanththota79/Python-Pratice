@@ -25,6 +25,7 @@ plt.title('Average Sales by Gender')
 plt.show()
 
 # Payment method distribution
+
 sns.countplot(x='Payment', data=df)
 plt.title('Payment Method Distribution')
 plt.show()
