@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-
 df = pd.read_csv('supermarket_sales.csv')
 print(df.head())
 
