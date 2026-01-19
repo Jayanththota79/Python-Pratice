@@ -23,7 +23,6 @@ print(gender_sales)
 sns.barplot(x='Gender', y='Total', data=gender_sales)
 plt.title('Average Sales by Gender')
 plt.show()
-
 # Payment method distribution
 
 sns.countplot(x='Payment', data=df)
