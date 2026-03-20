@@ -11,6 +11,7 @@ city_sales = df.groupby('City')['Total'].sum().reset_index()
 print("\nTotal Sales by City:")
 print(city_sales)
 
+
 sns.barplot(x='City', y='Total', data=city_sales)
 plt.title('Total Sales by City')
 plt.show()
