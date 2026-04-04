@@ -7,6 +7,7 @@ df = pd.read_csv('supermarket_sales.csv')
 print(df.head())
 
 # Total sales by city
+
 city_sales = df.groupby('City')['Total'].sum().reset_index()
 print("\nTotal Sales by City:")
 print(city_sales)
