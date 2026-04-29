@@ -11,6 +11,7 @@ print(city_sales)
 sns.barplot(x='City', y='Total', data=city_sales)
 plt.title('Total Sales by City')
 plt.show()
+
 # Average sales by gender
 gender_sales = df.groupby('Gender')['Total'].mean().reset_index()
 print("\nAverage Sales by Gender:")
